@@ -9,6 +9,8 @@ list1 = [1,2,3,4]
 list2 = [1,6,3,4]
 list3 = [1,2,5,4]
 list3 = [1,2,3,8]
+
+list4 = [2,4,6,8]
 if __name__ == "__main__":
 
     print("\nSOME PROBABILITY PROBLEMS\n")
